@@ -1,0 +1,7 @@
+{
+  "name": "beats_ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

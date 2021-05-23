@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "beats_ui",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
